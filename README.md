@@ -1,6 +1,6 @@
 # ¡Hola! Mi nombre es Germán
 
-**Desarrollador de Programación y autodidacta en Arduino y IoT ** 💻 
+**Desarrollador de Programación y autodidacta en Arduino y IoT** 💻 
 
 Desarrollador de Software | Especialista en IoT y Arduino | Entusiasta de la Inteligencia Artificial
 
