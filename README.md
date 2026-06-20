@@ -4,7 +4,7 @@
 
 Desarrollador de Software | Especialista en IoT y Arduino | Entusiasta de la Inteligencia Artificial
 
-Desarrollador de programación con una fuerte base autodidacta en el mundo del hardware inteligente, Arduino y el Internet de las Cosas (IoT). Me apasiona conectar el mundo físico con el digital, creando soluciones automatizadas y eficientes. Actualmente, estoy expandiendo mis fronteras integrando herramientas de Inteligencia Artificial para dotar de verdadera "sensibilidad" y autonomía a los dispositivos conectados. Siempre listo para el siguiente reto tecnológico.
+Desarrollador de programación con una fuerte base autodidacta en el mundo del hardware inteligente, Arduino y el Internet de las Cosas (IoT) y la impresión 3D. Me apasiona conectar el mundo físico con el digital, creando soluciones automatizadas y eficientes. Actualmente, estoy expandiendo mis fronteras integrando herramientas de Inteligencia Artificial para dotar de verdadera "sensibilidad" y autonomía a los dispositivos conectados. Siempre listo para el siguiente reto tecnológico.
 
 ## ⚡ Tecnologías más usadas
 
